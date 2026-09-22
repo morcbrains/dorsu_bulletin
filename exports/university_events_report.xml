@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<university_events generatedAt="2026-08-07 05:40:26">
+  <event>
+    <id>9</id>
+    <event_title>Test</event_title>
+    <event_description>Test</event_description>
+    <event_category>Sports Event</event_category>
+    <event_date>2026-07-24</event_date>
+    <start_time>20:35:00</start_time>
+    <end_time>08:33:00</end_time>
+    <venue>Gymnasium</venue>
+    <organizer>University Student Council (USC)</organizer>
+    <target_audience>All Users</target_audience>
+    <status>published</status>
+    <created_by>Chan Romano</created_by>
+    <created_at>2026-07-22 20:33:35</created_at>
+  </event>
+</university_events>

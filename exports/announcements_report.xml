@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<announcements generatedAt="2026-08-07 08:25:37">
+  <announcement>
+    <id>47</id>
+    <title>TEEEEEEEST1</title>
+    <description>itt</description>
+    <category>Academic Announcement</category>
+    <target_audience>All Users</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-07 11:01:56</created_at>
+  </announcement>
+  <announcement>
+    <id>46</id>
+    <title>test 3</title>
+    <description>tt</description>
+    <category>Academic Announcement</category>
+    <target_audience>All Users</target_audience>
+    <urgency>normal</urgency>
+    <status>draft</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-07 09:08:46</created_at>
+  </announcement>
+  <announcement>
+    <id>45</id>
+    <title>HALLO</title>
+    <description>ads</description>
+    <category>General Announcement</category>
+    <target_audience>All Users</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-06 16:19:29</created_at>
+  </announcement>
+  <announcement>
+    <id>44</id>
+    <title>yow</title>
+    <description>yow</description>
+    <category>Academic Announcement</category>
+    <target_audience>All Users</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-06 16:18:19</created_at>
+  </announcement>
+  <announcement>
+    <id>43</id>
+    <title>test</title>
+    <description>test</description>
+    <category>Enrollment</category>
+    <target_audience>All Students</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-06 14:48:21</created_at>
+  </announcement>
+  <announcement>
+    <id>42</id>
+    <title>Test</title>
+    <description>Test Test</description>
+    <category>Faculty Announcement</category>
+    <target_audience>Students and Faculty</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>Faculty of Computing, Engineering and Technology (FaCET)</posted_by>
+    <created_at>2026-08-05 14:33:36</created_at>
+  </announcement>
+  <announcement>
+    <id>41</id>
+    <title>Test</title>
+    <description>Test</description>
+    <category>Enrollment</category>
+    <target_audience>All Students</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-08-05 14:16:23</created_at>
+  </announcement>
+  <announcement>
+    <id>40</id>
+    <title>Test</title>
+    <description>Test</description>
+    <category>Faculty Announcement</category>
+    <target_audience>Students and Faculty</target_audience>
+    <urgency>normal</urgency>
+    <status>published</status>
+    <posted_by>Faculty of Computing, Engineering and Technology (FaCET)</posted_by>
+    <created_at>2026-07-22 20:30:51</created_at>
+  </announcement>
+  <announcement>
+    <id>39</id>
+    <title>Test</title>
+    <description>test</description>
+    <category>Academic Announcement</category>
+    <target_audience>All Users</target_audience>
+    <urgency>urgent</urgency>
+    <status>published</status>
+    <posted_by>University Student Council (USC)</posted_by>
+    <created_at>2026-07-22 20:27:21</created_at>
+  </announcement>
+</announcements>

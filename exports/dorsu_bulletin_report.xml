@@ -1,0 +1,617 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dorsu_bulletin generatedAt="2026-08-07 05:03:54">
+  <system_information>
+    <system_name>DOrSU Bulletin</system_name>
+    <university>Davao Oriental State University</university>
+    <description>A centralized web-based platform for official university announcements, academic reminders, events, activities, and important updates.</description>
+  </system_information>
+  <role_overview>
+    <role_record>
+      <role>Admin</role>
+      <responsibility>Manages users, staff accounts, announcements, categories, reports, and system settings.</responsibility>
+      <approved_count>1</approved_count>
+    </role_record>
+    <role_record>
+      <role>University Office Informant</role>
+      <responsibility>Creates official university announcements and university events for the DOrSU community.</responsibility>
+      <approved_count>2</approved_count>
+    </role_record>
+    <role_record>
+      <role>Faculty Member</role>
+      <responsibility>Creates faculty and program-related announcements under the assigned faculty.</responsibility>
+      <approved_count>2</approved_count>
+    </role_record>
+    <role_record>
+      <role>Student</role>
+      <responsibility>Views announcements, events, notifications, saved announcements, and private messages.</responsibility>
+      <approved_count>1</approved_count>
+    </role_record>
+  </role_overview>
+  <approved_accounts>
+    <account>
+      <full_name>System Administrator</full_name>
+      <email>admin@dorsu.edu.ph</email>
+      <role>Admin</role>
+      <status>approved</status>
+      <unit>System Account</unit>
+    </account>
+    <account>
+      <full_name>Chan Romano</full_name>
+      <email>chanromano1@email.com</email>
+      <role>University Office Informant</role>
+      <status>approved</status>
+      <unit>University Student Council (USC)</unit>
+    </account>
+    <account>
+      <full_name>Roland Dalagan</full_name>
+      <email>rolando@dorsu.edu.ph</email>
+      <role>University Office Informant</role>
+      <status>approved</status>
+      <unit>University Student Council (USC)</unit>
+    </account>
+    <account>
+      <full_name>Chan Romano</full_name>
+      <email>chanromano2@email.com</email>
+      <role>Faculty Member</role>
+      <status>approved</status>
+      <unit>Faculty of Computing, Engineering and Technology (FaCET)</unit>
+    </account>
+    <account>
+      <full_name>Test Account</full_name>
+      <email>test@dorsu.edu.ph</email>
+      <role>Faculty Member</role>
+      <status>approved</status>
+      <unit>Faculty of Computing, Engineering and Technology (FaCET)</unit>
+    </account>
+    <account>
+      <full_name>Caleb Bangon</full_name>
+      <email>calebbangon@dorsu.edu.ph</email>
+      <role>Student</role>
+      <status>approved</status>
+      <unit>Faculty of Computing, Engineering and Technology (FaCET)</unit>
+    </account>
+  </approved_accounts>
+  <announcements>
+    <announcement>
+      <title>TEEEEEEEST1</title>
+      <description>itt</description>
+      <category>Academic Announcement</category>
+      <target_audience>All Users</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </announcement>
+    <announcement>
+      <title>test 3</title>
+      <description>tt</description>
+      <category>Academic Announcement</category>
+      <target_audience>All Users</target_audience>
+      <urgency>normal</urgency>
+      <status>draft</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </announcement>
+    <announcement>
+      <title>HALLO</title>
+      <description>ads</description>
+      <category>General Announcement</category>
+      <target_audience>All Users</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </announcement>
+    <announcement>
+      <title>yow</title>
+      <description>yow</description>
+      <category>Academic Announcement</category>
+      <target_audience>All Users</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </announcement>
+    <announcement>
+      <title>test</title>
+      <description>test</description>
+      <category>Enrollment</category>
+      <target_audience>All Students</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-06 14:48:21</created_at>
+    </announcement>
+    <announcement>
+      <title>Test</title>
+      <description>Test Test</description>
+      <category>Faculty Announcement</category>
+      <target_audience>Students and Faculty</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>Faculty of Computing, Engineering and Technology (FaCET)</posted_by>
+      <created_at>2026-08-05 14:33:36</created_at>
+    </announcement>
+    <announcement>
+      <title>Test</title>
+      <description>Test</description>
+      <category>Enrollment</category>
+      <target_audience>All Students</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-08-05 14:16:23</created_at>
+    </announcement>
+    <announcement>
+      <title>Test</title>
+      <description>Test</description>
+      <category>Faculty Announcement</category>
+      <target_audience>Students and Faculty</target_audience>
+      <urgency>normal</urgency>
+      <status>published</status>
+      <posted_by>Faculty of Computing, Engineering and Technology (FaCET)</posted_by>
+      <created_at>2026-07-22 20:30:51</created_at>
+    </announcement>
+    <announcement>
+      <title>Test</title>
+      <description>test</description>
+      <category>Academic Announcement</category>
+      <target_audience>All Users</target_audience>
+      <urgency>urgent</urgency>
+      <status>published</status>
+      <posted_by>University Student Council (USC)</posted_by>
+      <created_at>2026-07-22 20:27:21</created_at>
+    </announcement>
+  </announcements>
+  <events>
+    <event>
+      <event_title>Test</event_title>
+      <event_description>Test</event_description>
+      <event_category>Sports Event</event_category>
+      <event_date>2026-07-24</event_date>
+      <start_time>20:35:00</start_time>
+      <end_time>08:33:00</end_time>
+      <venue>Gymnasium</venue>
+      <organizer>University Student Council (USC)</organizer>
+      <target_audience>All Users</target_audience>
+      <status>published</status>
+      <created_at>2026-07-22 20:33:35</created_at>
+    </event>
+  </events>
+  <messages>
+    <message_record>
+      <sender>Roland Dalagan (University Office Informant)</sender>
+      <receiver>Chan Romano (University Office Informant)</receiver>
+      <message>HI</message>
+      <message_type>Private Message</message_type>
+      <status>Stored</status>
+      <created_at>2026-08-07 09:06:29</created_at>
+    </message_record>
+  </messages>
+  <notifications>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): TEEEEEEEST1</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): TEEEEEEEST1</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): TEEEEEEEST1</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): TEEEEEEEST1</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): TEEEEEEEST1</message>
+      <receiver>Test Account</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 11:01:56</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test 3</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test 3</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test 3</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test 3</message>
+      <receiver>Roland Dalagan</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test 3</message>
+      <receiver>Test Account</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:08:46</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Roland Dalagan.</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-07 09:06:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): HALLO</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): HALLO</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): HALLO</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): HALLO</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): HALLO</message>
+      <receiver>Test Account</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:19:29</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): yow</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): yow</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): yow</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): yow</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): yow</message>
+      <receiver>Test Account</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 16:18:19</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 14:49:00</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-06 14:48:21</created_at>
+    </notification>
+    <notification>
+      <type>faculty_announcement</type>
+      <title>New Faculty Announcement</title>
+      <message>A new faculty announcement has been posted by Test Account: Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-05 14:33:36</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Unread</status>
+      <created_at>2026-08-05 14:16:23</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by University Student Council (USC): Test</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-07-22 20:33:35</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by University Student Council (USC): Test</message>
+      <receiver>Chan Romano</receiver>
+      <status>Unread</status>
+      <created_at>2026-07-22 20:33:35</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by University Student Council (USC): Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:33:35</created_at>
+    </notification>
+    <notification>
+      <type>faculty_announcement</type>
+      <title>New Faculty Announcement</title>
+      <message>A new faculty announcement has been posted by Chan Romano: Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:30:51</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-07-22 20:27:55</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>Chan Romano</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:27:55</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:27:55</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>System Administrator</receiver>
+      <status>Unread</status>
+      <created_at>2026-07-22 20:27:21</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>Chan Romano</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:27:21</created_at>
+    </notification>
+    <notification>
+      <type>announcement</type>
+      <title>New University Announcement</title>
+      <message>A new announcement has been posted by University Student Council (USC): Test</message>
+      <receiver>Caleb Bangon</receiver>
+      <status>Read</status>
+      <created_at>2026-07-22 20:27:21</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Caleb Bangon.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 15:29:03</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): Test</message>
+      <receiver>System Administrator</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 15:21:17</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): Test</message>
+      <receiver>Unknown</receiver>
+      <status>Unread</status>
+      <created_at>2026-05-20 15:21:17</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): Test</message>
+      <receiver>Unknown</receiver>
+      <status>Unread</status>
+      <created_at>2026-05-20 15:21:17</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): Test</message>
+      <receiver>Unknown</receiver>
+      <status>Unread</status>
+      <created_at>2026-05-20 15:21:17</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Chan Romano.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 14:11:14</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Chan Romano.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 14:10:48</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Mary Sy.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 13:57:08</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Chan Romano.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 13:23:57</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Caleb Bangon.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 13:17:15</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): DOrSU Foundation Day</message>
+      <receiver>System Administrator</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 11:00:51</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): DOrSU Foundation Day</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 11:00:51</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): DOrSU Foundation Day</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 11:00:51</created_at>
+    </notification>
+    <notification>
+      <type>event</type>
+      <title>New University Event</title>
+      <message>A new university event has been posted by Office of Student Affairs (OSA): DOrSU Foundation Day</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 11:00:51</created_at>
+    </notification>
+    <notification>
+      <type>faculty_announcement</type>
+      <title>New Faculty Announcement</title>
+      <message>A new faculty announcement has been posted by Caleb Bangon: gg</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 10:48:52</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Mary Sy.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 10:43:09</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Caleb Bangon.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 10:42:58</created_at>
+    </notification>
+    <notification>
+      <type>private_message</type>
+      <title>New Private Message</title>
+      <message>You received a new message from Mary Sy.</message>
+      <receiver>Unknown</receiver>
+      <status>Read</status>
+      <created_at>2026-05-20 10:42:50</created_at>
+    </notification>
+  </notifications>
+</dorsu_bulletin>

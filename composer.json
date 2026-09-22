@@ -1,0 +1,6 @@
+{
+    "require": {
+        "pusher/pusher-php-server": "^7.2",
+        "php-amqplib/php-amqplib": "^3.7"
+    }
+}

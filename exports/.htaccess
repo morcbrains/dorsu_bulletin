@@ -1,0 +1,4 @@
+# Generated report files must be opened through serve.php (session-protected).
+<FilesMatch "\.(xml|html|xsl)$">
+    Require all denied
+</FilesMatch>
